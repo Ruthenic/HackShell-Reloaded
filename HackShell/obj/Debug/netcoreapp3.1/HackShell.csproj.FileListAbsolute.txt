@@ -1,0 +1,11 @@
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.exe
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.deps.json
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.runtimeconfig.json
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.runtimeconfig.dev.json
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.dll
+C:\Users\dalle\source\repos\HackShell\HackShell\bin\Debug\netcoreapp3.1\HackShell.pdb
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\netcoreapp3.1\HackShell.csprojAssemblyReference.cache
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\netcoreapp3.1\HackShell.AssemblyInfoInputs.cache
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\netcoreapp3.1\HackShell.AssemblyInfo.cs
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\netcoreapp3.1\HackShell.dll
+C:\Users\dalle\source\repos\HackShell\HackShell\obj\Debug\netcoreapp3.1\HackShell.pdb
